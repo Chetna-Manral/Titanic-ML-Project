@@ -329,7 +329,7 @@ Machine Learning Project — Titanic Survival Prediction
 
 ## ⭐ Conclusion
 
-This project demonstrates a complete Machine Learning workflow for a binary classification problem.
+This project demonstrates a complete Machine Learning workflow for a binary classification problem in titanic dataset.
 
 Logistic Regression provides a simple and interpretable baseline, while Random Forest can capture more complex relationships between features.
 
