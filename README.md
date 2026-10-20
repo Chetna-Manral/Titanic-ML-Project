@@ -2,8 +2,6 @@
 
 A Machine Learning project that predicts whether a passenger survived the Titanic disaster based on passenger information such as age, gender, passenger class, fare, and family size.
 
-The project follows the complete Machine Learning workflow, from data cleaning and exploratory data analysis (EDA) to preprocessing, model training, and evaluation.
-
 ---
 
 ## 📌 Project Overview
